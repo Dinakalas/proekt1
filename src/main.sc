@@ -26,6 +26,12 @@ theme: /
         random:
             a: Попробуйте ответить по-другому.
             a: Переформулируйте, пожалуйста, свой вопрос.
+            
+     #глобальный запрос тура       
+    state: Sale || noContext = true 
+        q: $tour
+        go!: /Menu/Choose/Tour
+        
 
     #глобальный ответ на прощание
     state: Bye || noContext = true 

@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "just_tour_text-1000048259-Fzs",
-    "name" : "just_tour_text-1000048259-Fzs",
+    "id" : "turbot-1000054690-FjL",
+    "name" : "turbot-1000054690-FjL",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -244,5 +244,6 @@
   }, {
     "name" : "zb.number",
     "enabled" : false
-  } ]
+  } ],
+  "faq" : [ ]
 }
